@@ -162,11 +162,32 @@ Mac地址  EC:8E:B5:4E:C7:F8
 ```
 
 ### Working 
+![1](http://ovefvi4g3.bkt.clouddn.com/1.png)
+
+![2](http://ovefvi4g3.bkt.clouddn.com/2.png)
+
+![3](http://ovefvi4g3.bkt.clouddn.com/3.png)
+
+![4](http://ovefvi4g3.bkt.clouddn.com/4.png)
+
+![5](http://ovefvi4g3.bkt.clouddn.com/5.png)
+
+![6](http://ovefvi4g3.bkt.clouddn.com/6.png)
+
+![7](http://ovefvi4g3.bkt.clouddn.com/7.png)
+
+![8](http://ovefvi4g3.bkt.clouddn.com/8.png)
+
+![9](http://ovefvi4g3.bkt.clouddn.com/9.png)
+
+![10](http://ovefvi4g3.bkt.clouddn.com/10.png)
+
+![11](http://ovefvi4g3.bkt.clouddn.com/11.png)
+
+![12](http://ovefvi4g3.bkt.clouddn.com/12.png)
 
 ### Clover EFI bootloader
 [HP OMEN by HP Laptop](https://github.com/athlonreg/HP-OMEN-II-Laptop-PC/releases)
 
 ### Finally
 Please respect the author’s work and please indicate the address of the original post if you want reprint the repo!
-
-
