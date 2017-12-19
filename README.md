@@ -187,7 +187,7 @@ Mac地址  EC:8E:B5:4E:C7:F8
 ![12](http://ovefvi4g3.bkt.clouddn.com/12.png)
 
 ### Clover EFI bootloader
-[HP OMEN by HP Laptop](https://github.com/athlonreg/HP-OMEN-II-Laptop-PC/releases)
+[HP OMEN by HP Laptop](https://github.com/athlonreg/HP-OMEN-II-Laptop-PC-i5-6300HQ/releases)
 
 ### Finally
 Please respect the author’s work and please indicate the address of the original post if you want reprint the repo!
