@@ -48,6 +48,26 @@
 					<key>Replace</key>
 					<data>WExSSQg=</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q10 to XQ10</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1ExMA==</data>
+					<key>Replace</key>
+					<data>WFExMA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_Q11 to XQ11</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1ExMQ==</data>
+					<key>Replace</key>
+					<data>WFExMQ==</data>
+				</dict>
 			</array>
 		</dict>
 		<key>FixHeaders</key>

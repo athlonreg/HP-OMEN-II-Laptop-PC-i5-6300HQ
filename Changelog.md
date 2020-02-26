@@ -1,4 +1,11 @@
 # Changelog
+- 2020.2.26
+
+  - Update All Kexts
+  - Update CLOVER to 5094
+  - Support macOS Catalina
+  - Use hotpatch
+
 - 2018.6.8
   - Update AppleALC version to 1.2.8
   - Update Lilu version to 1.2.4
